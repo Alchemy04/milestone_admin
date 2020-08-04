@@ -1,0 +1,36 @@
+.shiftDown
+{
+	margin-top: 20px;
+}
+
+.moveUp
+{
+	margin-top: 0px;
+	padding-top: 0px;
+	z-index: 1;
+}
+
+.hidden
+{
+	display: none;
+}
+
+.shiftRight
+{
+	padding-left :40px;
+}
+#query
+{
+	margin-bottom: 0px;
+}
+
+#searchResults
+{
+	position: absolute;
+	z-index: 10;
+	margin-top: none;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
